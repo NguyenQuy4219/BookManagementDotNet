@@ -1,0 +1,48 @@
+# Visual Studio files
+.vscode/
+.vs/
+
+# Build and compiled output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages and dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# NuGet-specific files
+*.nuget/
+.nuget/
+artifacts/
+*.lock.json
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# Resharper and Rider files
+.idea/
+*.sln.iml
+
+# Database-related files (if using SQL Server)
+*.mdf
+*.ldf
